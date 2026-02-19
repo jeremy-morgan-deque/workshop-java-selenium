@@ -16,4 +16,4 @@ git reset --hard HEAD
 #rm .git/hooks/pre-commit
 
 # Switch to main branch
-git checkout main
+git checkout master
